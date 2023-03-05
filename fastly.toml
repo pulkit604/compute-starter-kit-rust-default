@@ -6,3 +6,4 @@ description = "A basic starter kit that demonstrates routing, simple synthetic r
 language = "rust"
 manifest_version = 2
 name = "Default starter for Rust"
+service_id = "ekgGgh8Kzl3SepOi23aA86"
